@@ -1,0 +1,134 @@
+h6 {
+    color: #000000;
+    font-size: 18px;
+    margin-top: 13px;
+    margin-left: 566px;
+}
+
+.main-div {
+    background-color: #56836F;
+    height: 1396px;
+    width: 1286px;
+    margin: 20px 40px 40px 40px;
+    padding: 53px 56px 23px 72px;
+    border: 4px solid #006837;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.div-nav {
+    margin-bottom: 63px;
+}
+
+.nav-ul {
+    margin-left: 100px;
+    float: left;
+}
+
+.nav-li {
+    display: inline-block;
+    margin-right: 50px;
+    vertical-align: top;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 48px;
+    font-family:'MyriadPro-Regular', sans-serif;
+}
+
+.logo {
+    height: 151.5px;
+    width: 201.2px;
+    float: right;
+    margin-bottom: 60px;
+}
+
+section {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 13px 1fr;
+    grid-template-columns: 1fr 1fr;
+    -webkit-column-gap: 13px;
+       -moz-column-gap: 13px;
+            column-gap: 13px;
+    row-gap: 45px;
+    clear: right;
+}
+
+.PC {
+    height: 118px;
+    width: 152px;
+}
+
+#PC-1 {
+    float: right;
+    margin-right: 32px;
+    margin-left: 42px;
+    margin-bottom: 25px;
+}
+
+#PC-3 {
+    float: right;
+    margin-right: 32px;
+    margin-left: 6px;
+}
+
+#PC-2 {
+    float: left;
+    margin-left: 32px;
+    margin-right: 20px;
+    margin-bottom: 35px;
+}
+
+#PC-4 {
+    float: left;
+    margin-left: 32px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.div-1 {
+    background-color: #FCEE21;
+    height: 356px;
+    width: 617px;
+}
+
+.div-2 {
+    background-color: #FCEE21;
+    height: 356px;
+    width: 523px;
+}
+
+.div-3 {
+    background-color: #FCEE21;
+    height: 356px;
+    width: 617px;
+}
+
+.div-4 {
+    background-color: #FCEE21;
+    -webkit-box-flex: 100%;
+        -ms-flex: 100%;
+            flex: 100%;
+    width: 523px;
+    padding-bottom: 80px;
+}
+
+.para-2 {
+    color: #006837;
+}
+
+.para4 {
+    color: #006837;
+}
+
+article p {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 22px;
+    margin-left: 26px;
+    margin-right: 26px;
+}
